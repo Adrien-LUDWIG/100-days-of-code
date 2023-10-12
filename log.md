@@ -1,12 +1,51 @@
 # 100 Days Of Code - Log
 
-## Day 0: October 10, 2023
+## Day 0: October 11, 2023
 
-**Today's Progress**:
+Like any self-respecting developer, I count from 0. 😄
+But today I'm only setting up this repository, where I'll keep logs throughout
+the challenge, by removing unneeded content from the template repository and
+making the rules my own.
 
-**Thoughts:**
+Why did I remove some rules?
 
-**Link(s) to work:**
+First, I don't use Tweeter. To still make myself accountable I'll report to my
+family and friends. I'll also try posting updates in certain IT communities.
+
+Then, I removed the rule about counting only work on projects and not on
+exercises, tutorials and other similar ressources. I feel like this rule applies
+more to front-end (/ web / app) development where creating a portfolio is
+essential. As I want to work on computer science and back-end development but
+also take part to open source as part of this challenge, I'm not sure it makes
+as much sense. I'll try to produce as much concret work as possible but I don't
+want to restrict myself too much.
+
+Here is a list of things I want to work on:
+
+- Dust off C++ ([Exercism](https://exercism.org/) to start with)
+- Participate in [Hacktoberfest](https://hacktoberfest.com/) 2023 and [Global
+  Hack Week - Open Source](https://ghw.mlh.io/events/open-source)
+- [Exercism #12in23 challenge](https://exercism.org/challenges/12in23): discover Ruby as part of Object-Oriented October.
+- Follow the [back end roadmap](https://roadmap.sh/backend) of
+  [roadmap.sh](https://roadmap.sh)
+- Discover Go, using:
+  - the [Go roadmap](https://roadmap.sh/golang)
+  - the [Go track on Exercism](https://exercism.org/tracks/go)
+  - [gophercises](https://gophercises.com/) projects
+- Computer Science, to expand on what I already learned during my master. I'd
+  like to take a closer look at [Teach Yourself Computer
+  Science](https://teachyourselfcs.com/), starting with compilers.
+- Personal projects:
+  - ioi2git, scrape my France IOI solutions to push them on GitHub
+  - Create a tool to export personal MoviesFad data
+  - [My Tiny Lisp Interpreter](https://github.com/Adrien-LUDWIG/Tiny-Lisp-Interpreter)
+  - ...
+- Learn more about Docker (and Kubernetes). Follow their roadmaps.
+- Continue freeCodeCamp, especially the back end part.
+- ...
+
+I probably won't be able to work on everything here...but I'll continue in my
+next 100 days! 😁
 
 ## Day 1: October 12, 2023
 

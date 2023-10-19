@@ -70,3 +70,29 @@ IT environmental impact which will, in turn, help me to design more responsible 
 
 **Link to work:**
 [Today's commits on my Exercism solutions' repo](https://github.com/Adrien-LUDWIG/exercism/commits?branch=main&since=2023-10-12&until=2023-10-1)
+
+## Day 2 & 3: October 13 & 14, 2023
+
+These two days were peculiar days. I attended Hackvens 2023, an event organized
+by the french cybersecurity company Advens. On the program: conferences during
+the day and CTF during the night!
+
+## Day 4: October 15, 2023
+
+Exercism C++
+
+## Day 5: October 16, 2023
+
+Exercism C++
+
+## Day 6: October 17, 2023
+
+Leetcode Python
+
+## Day 7: October 18, 2023
+
+Leetcode Python
+
+## Day 8: October 19, 2023
+
+Leetcode Python

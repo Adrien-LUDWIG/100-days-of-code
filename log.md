@@ -87,12 +87,18 @@ Exercism C++
 
 ## Day 6: October 17, 2023
 
-Leetcode Python
+LeetCode Python
 
 ## Day 7: October 18, 2023
 
-Leetcode Python
+LeetCode Python
 
 ## Day 8: October 19, 2023
 
-Leetcode Python
+LeetCode Python
+
+## Day 9: October 20, 2023
+
+LeetCode Python
+
+Interesting resource read : [How to check if a list is empty in Python?](https://stackoverflow.com/a/45778282/17211950)

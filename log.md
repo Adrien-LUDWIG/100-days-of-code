@@ -114,3 +114,7 @@ but it was very interesting to explore 2 points in detail:
 - Sliding window max using collections.deque
 
 Links : [My solution](https://leetcode.com/submissions/detail/1080931787/)
+
+## Day 11: October 22, 2023
+
+LeetCode

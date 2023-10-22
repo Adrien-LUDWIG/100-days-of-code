@@ -102,3 +102,15 @@ LeetCode Python
 LeetCode Python
 
 Interesting resource read : [How to check if a list is empty in Python?](https://stackoverflow.com/a/45778282/17211950)
+
+## Day 10: October 21, 2023
+
+I did LeetCode daily challenge, [1425. Constrained Subsequence
+Sum](https://leetcode.com/problems/constrained-subsequence-sum/) (rated hard), in
+Python. I needed hints
+but it was very interesting to explore 2 points in detail:
+
+- Dynamic Programming
+- Sliding window max using collections.deque
+
+Links : [My solution](https://leetcode.com/submissions/detail/1080931787/)

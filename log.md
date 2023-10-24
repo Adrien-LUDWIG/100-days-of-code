@@ -118,3 +118,17 @@ Links : [My solution](https://leetcode.com/submissions/detail/1080931787/)
 ## Day 11: October 22, 2023
 
 LeetCode
+
+## Day 12: October 23, 2023
+
+LeetCode
+Job interview
+
+## Day 13: October 24, 2023
+
+Typo PRs:
+
+- Learn X in Y minutes, where X=MongoDB
+- Exercism Docs
+
+Read Exercism docs with the aim of implementing one (to start with, then more)

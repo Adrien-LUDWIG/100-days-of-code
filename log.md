@@ -132,3 +132,11 @@ Typo PRs:
 - Exercism Docs
 
 Read Exercism docs with the aim of implementing one (to start with, then more)
+
+## Day 14: October 25, 2023
+
+- Read Learn X in Y minutes where X = Ruby
+- Start Exercism Ruby
+- Got Exercism Object-Oriented October badge as part of the #12in23 challenge
+- Reported a few bugs on the Exercism forum
+- Solved LeetCode Daily problem

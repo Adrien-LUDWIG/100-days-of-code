@@ -140,3 +140,9 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Got Exercism Object-Oriented October badge as part of the #12in23 challenge
 - Reported a few bugs on the Exercism forum
 - Solved LeetCode Daily problem
+
+## Day 15: October 26, 2023
+
+- Solved LeetCode Daily challenge
+- Read about Dynamic Programming
+- Read about sorting algorithms

@@ -146,3 +146,9 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Solved LeetCode Daily challenge
 - Read about Dynamic Programming
 - Read about sorting algorithms
+
+## Day 16: October 27, 2023
+
+- Solved LeetCode Daily challenge
+- Discovered Manacher's algorithm
+- Started implementing a new exercise on Exercism

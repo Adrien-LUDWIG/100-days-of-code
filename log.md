@@ -152,3 +152,9 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Solved LeetCode Daily challenge
 - Discovered Manacher's algorithm
 - Started implementing a new exercise on Exercism
+
+## Day 17: October 28, 2023
+
+- Solved LeetCode Daily challenge
+- Read about Matrix Exponentiation
+- Created a PR for the new exercise on Exercism

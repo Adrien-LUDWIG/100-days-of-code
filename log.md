@@ -158,3 +158,11 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Solved LeetCode Daily challenge
 - Read about Matrix Exponentiation
 - Created a PR for the new exercise on Exercism
+
+## Day 18: October 29, 2023
+
+- Solved LeetCode Daily challenge
+- Read about Combinatorics
+- Created a PR for a new Racket exercise on Exercism
+- Ported the exercise generator from the Common Lisp track to generate
+  exercises for the Racket track

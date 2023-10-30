@@ -166,3 +166,11 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Created a PR for a new Racket exercise on Exercism
 - Ported the exercise generator from the Common Lisp track to generate
   exercises for the Racket track
+
+## Day 19: October 30, 2023
+
+- Solved LeetCode Daily challenge
+- Fixed yesterday's PR for a new Racket exercise on Exercism
+- Created 2 new PRs for new Racket exercises on Exercism
+- Fixed a few things on the Racket's exercise generator and discussed next steps
+  with the maintainer

@@ -179,3 +179,8 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 
 - Solved LeetCode Daily challenge
 - Fixed yesterday's 2 PRs for new Racket exercises on Exercism
+
+## Day 21: November 1, 2023
+
+- Solved LeetCode Daily challenge and tried different approaches
+- Read about Web Assembly on Exercism and Learn X in Y minutes

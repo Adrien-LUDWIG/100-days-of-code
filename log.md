@@ -174,3 +174,8 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Created 2 new PRs for new Racket exercises on Exercism
 - Fixed a few things on the Racket's exercise generator and discussed next steps
   with the maintainer
+
+## Day 20: October 31, 2023
+
+- Solved LeetCode Daily challenge
+- Fixed yesterday's 2 PRs for new Racket exercises on Exercism

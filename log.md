@@ -184,3 +184,8 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 
 - Solved LeetCode Daily challenge and tried different approaches
 - Read about Web Assembly on Exercism and Learn X in Y minutes
+
+## Day 22: November 2, 2023
+
+- Solved LeetCode Daily challenge
+- Started the Web Assembly track on Exercism

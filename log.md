@@ -189,3 +189,8 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 
 - Solved LeetCode Daily challenge
 - Started the Web Assembly track on Exercism
+
+## Day 23: November 3, 2023
+
+- Solved LeetCode Daily challenge
+- Started reading *Crafting Interpreters* by Bob Nystrom

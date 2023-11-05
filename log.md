@@ -194,3 +194,9 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 
 - Solved LeetCode Daily challenge
 - Started reading *Crafting Interpreters* by Bob Nystrom
+
+## Day 24: November 4, 2023
+
+- Solved LeetCode Daily challenge
+- Solved 5 exercises of Web Assembly on Exercism
+- Obtained Exercism's badge for participating to Nibbly November as part of #12in23

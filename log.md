@@ -206,3 +206,9 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Solved LeetCode Daily challenge
 - Solved 2 exercises of Web Assembly on Exercism :
   - Learned about string and memory manipulation in Web Assembly
+
+## Day 26: November 6, 2023
+
+- Solved LeetCode Daily challenge
+- Exercism #12in23:
+  - Solved the last featured exercise of Nibbly November in Web Assembly

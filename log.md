@@ -212,3 +212,10 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Solved LeetCode Daily challenge
 - Exercism #12in23:
   - Solved the last featured exercise of Nibbly November in Web Assembly
+
+## Day 27: November 7, 2023
+
+- Solved LeetCode Daily challenge
+- Read about greedy algorithms
+- Received my Hacktoberfest reward kit
+- Discovered Educative and selected some interesting courses to explore

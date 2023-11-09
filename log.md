@@ -219,3 +219,8 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Read about greedy algorithms
 - Received my Hacktoberfest reward kit
 - Discovered Educative and selected some interesting courses to explore
+
+## Day 28: November 8, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Go exercises on Exercism

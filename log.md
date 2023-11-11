@@ -224,3 +224,13 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 
 - Solved LeetCode Daily challenge
 - Solved Go exercises on Exercism
+
+## Day 29: November 9, 2023
+
+- Solved LeetCode Daily challenge
+- Started the course *Web Development: A Primer* on Educative
+
+## Day 30: November 10, 2023
+
+- Solved LeetCode Daily challenge
+- Completed the course *Web Development: A Primer* on Educative

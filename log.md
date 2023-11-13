@@ -234,3 +234,11 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 
 - Solved LeetCode Daily challenge
 - Completed the course *Web Development: A Primer* on Educative
+
+## Day 31: November 11, 2023
+
+- Solved LeetCode Daily challenge and read about graphs shortest path algorithms
+
+## Day 32: November 12, 2023
+
+- Solved LeetCode Daily challenge

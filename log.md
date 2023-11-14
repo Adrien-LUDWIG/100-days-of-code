@@ -242,3 +242,7 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 ## Day 32: November 12, 2023
 
 - Solved LeetCode Daily challenge
+
+## Day 33: November 13, 2023
+
+- Solved LeetCode Daily challenge in 5 different ways

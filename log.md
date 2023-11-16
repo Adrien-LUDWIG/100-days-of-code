@@ -252,3 +252,11 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Solved LeetCode Daily challenge in 4 different ways
 - Started a certificate on Coursera: IBM Full Stack Software Developer:
   - Completed week 1/6 of Introduction to Cloud Computing (course 1/12)
+
+## Day 35: November 15, 2023
+
+- Solved LeetCode Daily challenge
+- Continued IBM Full Stack Software Developer course:
+  - Did most of week 1/4 of Developing Back-End Apps with Node.js and
+    Express(course 5/12). \
+    I chose to go straight to Node.js because it's used everywhere, so I made it a priority.

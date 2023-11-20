@@ -280,3 +280,14 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 
 - Solved LeetCode Daily challenge
 - Read about the different aspects of the sliding window technique
+
+## Day 39: November 19, 2023
+
+- Solved LeetCode Daily challenge
+- Read about Cloud-Native apps, Serverless development and API gateways
+- Discovered 451 Research and took a look at their trends' reports about
+  - Cloud-Native
+  - Data, AI & Analytics
+- Continued IBM Full Stack Software Developer course:
+  - Continued week 3/4 of Developing Back-End Apps with
+    Node.js and Express (course 5/12)

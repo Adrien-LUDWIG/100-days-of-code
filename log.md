@@ -299,3 +299,10 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
   - Continued week 3/4 of Developing Back-End Apps with
     Node.js and Express (course 5/12)
 - Read about Session-based vs Token-based Authentication
+
+## Day 41: November 21, 2023
+
+- Solved LeetCode Daily challenge
+- Continued IBM Full Stack Software Developer course:
+  - Continued week 3/4 of Developing Back-End Apps with
+    Node.js and Express (course 5/12)

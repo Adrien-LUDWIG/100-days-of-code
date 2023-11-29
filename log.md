@@ -306,3 +306,35 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 - Continued IBM Full Stack Software Developer course:
   - Continued week 3/4 of Developing Back-End Apps with
     Node.js and Express (course 5/12)
+
+## Day 42: November 22, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 43: November 23, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 44: November 24, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 45: November 25, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 46: November 26, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 47: November 27, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 48: November 28, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 49: November 29, 2023
+
+- Solved LeetCode Daily challenge

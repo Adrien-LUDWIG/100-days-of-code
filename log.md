@@ -338,3 +338,22 @@ Read Exercism docs with the aim of implementing one (to start with, then more)
 ## Day 49: November 29, 2023
 
 - Solved LeetCode Daily challenge
+
+## Day 50: November 30, 2023
+
+Unfortunately, today was taken up with job hunting.
+I did not have the time or energy to work on something else.
+
+## Day 51: December 1, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code daily challenge
+
+## Day 52: December 2, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code daily challenge
+- Started Coursera Meta Back-End Developer Certificate rushing through
+  Introduction to Back-End Development
+- Watched Exercism December Diversion video presenting Cold Fusion, Groovy, Lua,
+  Vimscript and Wren

@@ -357,3 +357,9 @@ I did not have the time or energy to work on something else.
   Introduction to Back-End Development
 - Watched Exercism December Diversion video presenting Cold Fusion, Groovy, Lua,
   Vimscript and Wren
+
+## Day 53: December 3, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code daily challenge part 1, started part 2... then my
+  battery died 😅

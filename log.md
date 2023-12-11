@@ -370,3 +370,39 @@ I did not have the time or energy to work on something else.
 - Solved LeetCode Daily challenge
 - Solved Advent of Code day 4
 - Finished Advent of Code day 3 part 2
+
+## Day 55: December 5, 2023
+
+- CodingGame puzzles
+- Solved LeetCode Daily challenge
+- CodingGame interview Python & C++
+
+## Day 56: December 6, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 6
+
+## Day 57: December 7, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 7
+
+## Day 58: December 8, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 8
+
+## Day 59: December 9, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 9
+
+## Day 60: December 10, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 10 part 1
+
+## Day 61: December 11, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 11

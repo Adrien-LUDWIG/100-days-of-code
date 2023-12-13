@@ -406,3 +406,7 @@ I did not have the time or energy to work on something else.
 
 - Solved LeetCode Daily challenge
 - Solved Advent of Code day 11
+
+## Day 62: December 12, 2023
+
+- Solved LeetCode Daily challenge

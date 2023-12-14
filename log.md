@@ -410,3 +410,12 @@ I did not have the time or energy to work on something else.
 ## Day 62: December 12, 2023
 
 - Solved LeetCode Daily challenge
+
+## Day 63: December 13, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 13
+- Created an [issue on
+  LeetHub-V3.0](https://github.com/raphaelheinz/LeetHub-3.0/issues/12)
+- Refactored previous solutions of Advent of Code that I solved from a
+  smartphone

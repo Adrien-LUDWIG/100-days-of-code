@@ -432,3 +432,13 @@ I did not have the time or energy to work on something else.
 - Started reading the Wren guides (Syntax & Values)
 - Started the Wren track on Exercism as part of #12in23's December Diversions
 - Created bash scripts to simplify common tasks on my Exercism solutions repo
+
+## Day 66: December 16, 2023
+
+- Solved LeetCode Daily challenge
+- Created a PR to fix a typo in the documentation of the Exercism Wren track
+- Solved Advent of Code day 16
+- Continued reading the Wren guides (Functions, Control Flow, Classes, Variables
+  & Random module)
+- Solved a few Wren exercises on Exercism
+- Opened a [PR](https://github.com/exercism/wren/pull/164) on the Exercism Wren track to fix an exercise given code

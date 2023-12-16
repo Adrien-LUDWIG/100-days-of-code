@@ -424,3 +424,11 @@ I did not have the time or energy to work on something else.
 
 - Solved LeetCode Daily challenge
 - Solved Advent of Code day 14
+
+## Day 65: December 15, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 15
+- Started reading the Wren guides (Syntax & Values)
+- Started the Wren track on Exercism as part of #12in23's December Diversions
+- Created bash scripts to simplify common tasks on my Exercism solutions repo

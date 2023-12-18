@@ -442,3 +442,10 @@ I did not have the time or energy to work on something else.
   & Random module)
 - Solved a few Wren exercises on Exercism
 - Opened a [PR](https://github.com/exercism/wren/pull/164) on the Exercism Wren track to fix an exercise given code
+
+## Day 67: December 17, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 17
+- Solved Wren exercises on Exercism, finished the featured ones for #12in23
+  December Diversions

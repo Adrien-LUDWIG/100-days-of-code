@@ -449,3 +449,22 @@ I did not have the time or energy to work on something else.
 - Solved Advent of Code day 17
 - Solved Wren exercises on Exercism, finished the featured ones for #12in23
   December Diversions
+
+## Day 68: December 18, 2023
+
+- Solved LeetCode Daily challenge
+- Explored resources to bring my Adent of Code repo to another level
+- Solved Advent of Code day 18
+
+## Day 69: December 19, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Advent of Code day 19
+
+## Day 70: December 20, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 71: December 21, 2023
+
+- Solved LeetCode Daily challenge

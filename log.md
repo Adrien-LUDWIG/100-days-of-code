@@ -468,3 +468,7 @@ I did not have the time or energy to work on something else.
 ## Day 71: December 21, 2023
 
 - Solved LeetCode Daily challenge
+
+## Day 72: December 22, 2023
+
+- Solved LeetCode Daily challenge

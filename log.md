@@ -472,3 +472,9 @@ I did not have the time or energy to work on something else.
 ## Day 72: December 22, 2023
 
 - Solved LeetCode Daily challenge
+
+## Day 73: December 23, 2023
+
+- Solved LeetCode Daily challenge
+- Solved Bash exercises on Exercism, nearly finished the featured ones for
+  #12in23 Slimline September

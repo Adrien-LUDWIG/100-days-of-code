@@ -478,3 +478,11 @@ I did not have the time or energy to work on something else.
 - Solved LeetCode Daily challenge
 - Solved Bash exercises on Exercism, nearly finished the featured ones for
   #12in23 Slimline September
+
+## Day 74: December 24, 2023 🎄
+
+- Solved LeetCode Daily challenge
+
+## Day 75: December 25, 2023 🎄
+
+- Solved LeetCode Daily challenge

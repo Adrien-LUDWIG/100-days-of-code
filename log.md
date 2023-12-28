@@ -490,3 +490,11 @@ I did not have the time or energy to work on something else.
 ## Day 76: December 26, 2023
 
 - Solved LeetCode Daily challenge
+
+## Day 77: December 27, 2023
+
+- Solved LeetCode Daily challenge
+- Read LearnXinYMinutes where X=Elixir
+- Solved Elixir exercises on Exercism, finished the featured ones for
+  #12in23 Functional February
+- Solved the last featured Bash exercise on Exercism #12in23 Slimline September

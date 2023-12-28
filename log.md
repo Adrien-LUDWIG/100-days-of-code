@@ -486,3 +486,7 @@ I did not have the time or energy to work on something else.
 ## Day 75: December 25, 2023 🎄
 
 - Solved LeetCode Daily challenge
+
+## Day 76: December 26, 2023
+
+- Solved LeetCode Daily challenge

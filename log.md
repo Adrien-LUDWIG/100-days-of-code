@@ -498,3 +498,10 @@ I did not have the time or energy to work on something else.
 - Solved Elixir exercises on Exercism, finished the featured ones for
   #12in23 Functional February
 - Solved the last featured Bash exercise on Exercism #12in23 Slimline September
+
+## Day 78: December 28, 2023
+
+- Attempted LeetCode Daily challenge
+- Solved the last two featured exercises of Exercism #12in23 Slimline September
+  in Python
+- Started a featured exercise of Exercism #12in23 Summer of Sexps in Racket

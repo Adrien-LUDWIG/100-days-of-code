@@ -505,3 +505,25 @@ I did not have the time or energy to work on something else.
 - Solved the last two featured exercises of Exercism #12in23 Slimline September
   in Python
 - Started a featured exercise of Exercism #12in23 Summer of Sexps in Racket
+
+## Day 79: December 29, 2023
+
+- Solved LeetCode Daily challenge
+- Solved LeetCode Daily challenge of the day before yesterday differently
+
+## Day 80: December 30, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 81: December 31, 2023
+
+- Solved LeetCode Daily challenge
+- Got Exercism badge New Year's Resolution a day in advance 🥚
+
+## Day 82: January 01, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 83: January 02, 2023
+
+- Solved LeetCode Daily challenge

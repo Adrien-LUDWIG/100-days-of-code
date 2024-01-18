@@ -460,6 +460,7 @@ I did not have the time or energy to work on something else.
 
 - Solved LeetCode Daily challenge
 - Solved Advent of Code day 19
+- Created [an issue on LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0/issues/12)
 
 ## Day 70: December 20, 2023
 
@@ -520,10 +521,73 @@ I did not have the time or energy to work on something else.
 - Solved LeetCode Daily challenge
 - Got Exercism badge New Year's Resolution a day in advance 🥚
 
-## Day 82: January 01, 2023
+## Day 82: January 1, 2023
 
 - Solved LeetCode Daily challenge
 
-## Day 83: January 02, 2023
+## Day 83: January 2, 2023
 
 - Solved LeetCode Daily challenge
+
+## Day 84: January 3, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 85: January 4, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 86: January 5, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 87 & 88: January 6 & 7, 2023
+
+I did not work these two days. I had a bad fall and went to the emergency room
+for quite a lot of stitches. My mind wasn't in coding.
+
+## Day 89: January 8, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 90: January 9, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 91: January 10, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 92: January 11, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 93: January 12, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 94: January 13, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 95: January 14, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 96: January 15, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 97: January 16, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 98: January 17, 2023
+
+- Solved LeetCode Daily challenge
+
+## Day 99: January 18, 2023
+
+- Solved LeetCode Daily challenge
+- Read [this great Stack Overflow answer] on how to efficiently check if a year
+  is a Leap year.

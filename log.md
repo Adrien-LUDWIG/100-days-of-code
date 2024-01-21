@@ -591,3 +591,12 @@ for quite a lot of stitches. My mind wasn't in coding.
 - Solved LeetCode Daily challenge
 - Read [this great Stack Overflow answer] on how to efficiently check if a year
   is a Leap year.
+
+## Day 100: January 19, 2023
+
+- Solved LeetCode Daily challenge
+- Read [the
+  explanation](https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html)
+  of a beautifully obfuscated Hello World in Python
+- Solved hard LeetCode Daily challenge of 2023-12-28
+- Solved hard LeetCode Daily challenge of 2024-01-06
